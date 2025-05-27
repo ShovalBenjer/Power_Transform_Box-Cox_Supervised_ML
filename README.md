@@ -1,5 +1,4 @@
 # Machine Learning Project
-![image](https://github.com/user-attachments/assets/beeec348-d550-4990-8b18-495894462efd)
 
 This project explores machine learning techniques, focusing on data preprocessing, model building, and evaluation. It includes data analysis, visualization, various algorithms, and performance comparison. Key topics: data cleaning, feature engineering, model selection, hyperparameter tuning, and evaluation metrics. 
 ![image](https://github.com/user-attachments/assets/d39b2020-e01f-4bd8-a483-ebe24c31429b)
