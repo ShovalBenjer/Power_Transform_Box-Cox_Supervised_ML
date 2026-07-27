@@ -43,31 +43,25 @@ We evaluate the performance of the models using metrics such as accuracy, precis
 The conclusion summarizes the findings and provides insights into the best practices for machine learning projects.
 
 ## Installation
-To run this project locally, ensure you have Jupyter Notebook installed. Clone the repository and navigate to the project directory:
+
+Clone the repository and install the dependencies:
+
 ```bash
-git clone https://github.com/yourusername/machine-learning-project-phase-1.git
-cd machine-learning-project-phase-1
-
-Install the required packages:
-
-bash
-Copy code
+git clone https://github.com/ShovalBenjer/Power_Transform_Box-Cox_Supervised_ML.git
+cd Power_Transform_Box-Cox_Supervised_ML
 pip install -r requirements.txt
-Usage
-Open the Jupyter Notebook:
+```
 
-bash
-Copy code
+## Usage
+
+Open the notebook and run the cells in order:
+
+```bash
 jupyter notebook Machine_learning_project_phase_1.ipynb
-Follow the instructions within the notebook to explore the project.
+```
 
-Contributing
-Contributions are welcome! Please open an issue or submit a pull request for any improvements or suggestions.
+## Status
 
-License
-This project is licensed under the MIT License. See the LICENSE file for details.
-
-css
-Copy code
-
-Feel free to customize the content according to your project's specific details and requi
+Coursework, completed and archived. It is kept public as a record of earlier
+work rather than as a maintained project, so there is no CI, no test suite, and
+no support.
